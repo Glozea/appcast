@@ -4,17 +4,17 @@
         <title>Glozea Partner</title>
         <!-- A release for android -->
         <item>
-            <title>Version 1.2.6</title>
+            <title>Version 1.2.8</title>
             <description>Some awesome updates and improvements.</description>
-            <pubDate>Thu, 05 Sep 2024 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.glozea.partner" sparkle:version="1.2.6" sparkle:os="android" />
+            <pubDate>Thu, 12 Sep 2024 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.glozea.partner" sparkle:version="1.2.8" sparkle:os="android" />
         </item>
         <!-- A release for ios -->
         <item>
-            <title>Version 1.2.3</title>
+            <title>Version 1.2.4</title>
             <description>Some awesome updates and improvements.</description>
-            <pubDate>Thu, 05 Sep 2024 12:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/in/app/glozea-partner-simplify-salon/id6479452097" sparkle:version="1.2.2" sparkle:os="iOS" />
+            <pubDate>Thu, 12 Sep 2024 12:00:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/in/app/glozea-partner-simplify-salon/id6479452097" sparkle:version="1.2.4" sparkle:os="iOS" />
         </item>
     </channel>
 </rss>
