@@ -4,17 +4,17 @@
         <title>Glozea</title>
         <!-- A release for android -->
         <item>
-            <title>Version 1.1.19</title>
+            <title>Version 1.1.20</title>
             <description>Some awesome updates and improvements.</description>
             <pubDate>Thu, 7 Nov 2024 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.glozea.user" sparkle:version="1.1.19" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.glozea.user" sparkle:version="1.1.20" sparkle:os="android" />
         </item>
         <!-- A release for ios -->
         <item>
-            <title>Version 1.2.23</title>
+            <title>Version 1.2.24</title>
             <description>Some awesome updates and improvements.</description>
             <pubDate>Sat, 16 Feb 2024 12:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/in/app/glozea-instant-salon-booking/id6479945488" sparkle:version="1.2.23" sparkle:os="iOS" />
+            <enclosure url="https://apps.apple.com/in/app/glozea-instant-salon-booking/id6479945488" sparkle:version="1.2.24" sparkle:os="iOS" />
         </item>
     </channel>
 </rss>
